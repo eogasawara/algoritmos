@@ -27,6 +27,10 @@ Cada item inclui o PDF e o projeto correspondente em `.approj`.
 22. [22 - Fazendo o Chines em Lacos](22-fazendo-o-chines-em-lacos.pdf) - Apresenta Fazendo o Chines em Lacos.
 23. [23 - Resolvendo Problemas com Repeticao](23-resolvendo-problemas-com-repeticao.pdf) - Apresenta Resolvendo Problemas com Repeticao.
 
+## Playlist
+
+https://www.youtube.com/playlist?list=PLTy3TWJeueGz1BZSaGRrnIUGcyV-5QV_c
+
 ## Blocos didaticos
 
 ### BLOCO 1 - Pensamento algoritmico (fundamentos cognitivos)
