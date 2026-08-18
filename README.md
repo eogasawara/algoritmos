@@ -1,147 +1,110 @@
-# Slides de introducao a algoritmos
+# Tutorial de Introdução a Algoritmos
 
-Abaixo esta a lista numerada das apresentacoes em PDF com o titulo e uma breve descricao.
-Cada item inclui o PDF e o projeto correspondente em `.approj`.
+Este tutorial em vídeo oferece uma introdução prática e progressiva ao pensamento algorítmico e aos fundamentos da programação. A sequência de vídeos aborda desde os conceitos básicos até estruturas mais elaboradas de construção de algoritmos, utilizando a linguagem Portugol, exemplos do cotidiano e desafios práticos para facilitar a compreensão.
 
-1. [01 - O que e um Problema e um Algoritmo](01-o-que-e-um-problema-e-um-algoritmo.pdf) - Apresenta O que e um Problema e um Algoritmo.
-2. [02 - Pensar em Passos e Sequencias](02-pensar-em-passos-e-sequencias.pdf) - Apresenta Pensar em Passos e Sequencias.
-3. [03 - Entrada, Saida e Testar Solucoes](03-entrada-saida-e-testar-solucoes.pdf) - Apresenta Entrada, Saida e Testar Solucoes.
-4. [04 - Como Escrever e Representar Algoritmos](04-como-escrever-e-representar-algoritmos.pdf) - Apresenta Como Escrever e Representar Algoritmos.
-5. [05 - Scratch: Ambiente Visual para Executar Algoritmos](05-scratch-ambiente-visual-para-executar-algoritmos.pdf) - Apresenta Scratch: Ambiente Visual para Executar Algoritmos.
-6. [06 - Variaveis: Guardando Informacoes](06-variaveis-guardando-informacoes.pdf) - Apresenta Variaveis: Guardando Informacoes.
-7. [07 - Variaveis, Entrada e Saida em Portugol](07-variaveis-entrada-e-saida-em-portugol.pdf) - Apresenta Variaveis, Entrada e Saida em Portugol.
-8. [08 - Guardar nao e comparar](08-guardar-nao-e-comparar.pdf) - Apresenta Guardar nao e comparar.
-9. [09 - Conectando Portugol e Scratch](09-conectando-portugol-e-scratch.pdf) - Apresenta Conectando Portugol e Scratch.
-10. [10 - Tipos de Dados](10-tipos-de-dados.pdf) - Apresenta Tipos de Dados.
-11. [11 - Fazendo Contas em Portugol](11-fazendo-contas-em-portugol.pdf) - Apresenta Fazendo Contas em Portugol.
-12. [12 - Verdadeiro, Falso e Comparacoes](12-verdadeiro-falso-e-comparacoes.pdf) - Apresenta Verdadeiro, Falso e Comparacoes.
-13. [13 - Operadores Logicos](13-operadores-logicos.pdf) - Apresenta Operadores Logicos.
-14. [14 - Comparar Textos e Numeros](14-comparar-textos-e-numeros.pdf) - Apresenta Comparar Textos e Numeros.
-15. [15 - Se e Senao em Portugol](15-se-e-senao-em-portugol.pdf) - Apresenta Se e Senao em Portugol.
-16. [16 - Resolvendo Problemas com Decisoes](16-resolvendo-problemas-com-decisoes.pdf) - Apresenta Resolvendo Problemas com Decisoes.
-17. [17 - Fazendo o Chines Execucao Passo a Passo de Algoritmos](17-fazendo-o-chines-execucao-passo-a-passo-de-algoritmos.pdf) - Apresenta Fazendo o Chines Execucao Passo a Passo de Algoritmos.
-18. [18 - Como o Computador Executa um Programa](18-como-o-computador-executa-um-programa.pdf) - Apresenta Como o Computador Executa um Programa.
-19. [19 - Scratch para Entender Lacos](19-scratch-para-entender-lacos.pdf) - Apresenta Scratch para Entender Lacos.
-20. [20 - Repetir com Contador (para)](20-repetir-com-contador-para.pdf) - Apresenta Repetir com Contador (para).
-21. [21 - Repetir ate uma condicao (enquanto)](21-repetir-ate-uma-condicao-enquanto.pdf) - Apresenta Repetir ate uma condicao (enquanto).
-22. [22 - Fazendo o Chines em Lacos](22-fazendo-o-chines-em-lacos.pdf) - Apresenta Fazendo o Chines em Lacos.
-23. [23 - Resolvendo Problemas com Repeticao](23-resolvendo-problemas-com-repeticao.pdf) - Apresenta Resolvendo Problemas com Repeticao.
+Os conteúdos incluem noções de resolução de problemas, uso de estruturas de decisão e repetição, manipulação de vetores e definição de funções, com foco no desenvolvimento do raciocínio lógico e na construção de soluções bem estruturadas.
+
+## Slides de introdução a algoritmos
+
+Abaixo está a lista numerada das apresentações em PDF, com o título e uma breve descrição.
+
+1. [O que é um Problema e um Algoritmo](https://github.com/eogasawara/algoritmos/blob/main/01-o-que-e-um-problema-e-um-algoritmo.pdf) - apresenta o que é um problema e um algoritmo.
+2. [Pensar em Passos e Sequências](https://github.com/eogasawara/algoritmos/blob/main/02-pensar-em-passos-e-sequencias.pdf) - apresenta pensar em passos e sequências.
+3. [Entrada, Saída e Testar Soluções](https://github.com/eogasawara/algoritmos/blob/main/03-entrada-saida-e-testar-solucoes.pdf) - apresenta entrada, saída e teste de soluções.
+4. [Como Escrever e Representar Algoritmos](https://github.com/eogasawara/algoritmos/blob/main/04-como-escrever-e-representar-algoritmos.pdf) - apresenta como escrever e representar algoritmos.
+5. [Scratch: Ambiente Visual para Executar Algoritmos](https://github.com/eogasawara/algoritmos/blob/main/05-scratch-ambiente-visual-para-executar-algoritmos.pdf) - apresenta o Scratch como ambiente visual para executar algoritmos.
+6. [Variáveis: Guardando Informações](https://github.com/eogasawara/algoritmos/blob/main/06-variaveis-guardando-informacoes.pdf) - apresenta variáveis como forma de guardar informações.
+7. [Variáveis, Entrada e Saída em Portugol](https://github.com/eogasawara/algoritmos/blob/main/07-variaveis-entrada-e-saida-em-portugol.pdf) - apresenta variáveis, entrada e saída em Portugol.
+8. [Guardar não é comparar](https://github.com/eogasawara/algoritmos/blob/main/08-guardar-nao-e-comparar.pdf) - diferencia guardar valores de comparar valores.
+9. [Conectando Portugol e Scratch](https://github.com/eogasawara/algoritmos/blob/main/09-conectando-portugol-e-scratch.pdf) - apresenta a conexão entre Portugol e Scratch.
+10. [Tipos de Dados](https://github.com/eogasawara/algoritmos/blob/main/10-tipos-de-dados.pdf) - apresenta tipos de dados.
+11. [Fazendo Contas em Portugol](https://github.com/eogasawara/algoritmos/blob/main/11-fazendo-contas-em-portugol.pdf) - apresenta operações aritméticas em Portugol.
+12. [Verdadeiro, Falso e Comparações](https://github.com/eogasawara/algoritmos/blob/main/12-verdadeiro-falso-e-comparacoes.pdf) - apresenta valores lógicos e comparações.
+13. [Operadores Lógicos](https://github.com/eogasawara/algoritmos/blob/main/13-operadores-logicos.pdf) - apresenta operadores lógicos.
+14. [Comparar Textos e Números](https://github.com/eogasawara/algoritmos/blob/main/14-comparar-textos-e-numeros.pdf) - apresenta comparação de textos e números.
+15. [Se e Senão em Portugol](https://github.com/eogasawara/algoritmos/blob/main/15-se-e-senao-em-portugol.pdf) - apresenta estruturas condicionais em Portugol.
+16. [Resolvendo Problemas com Decisões](https://github.com/eogasawara/algoritmos/blob/main/16-resolvendo-problemas-com-decisoes.pdf) - apresenta problemas resolvidos com decisões.
+17. [Fazendo o Chinês: Execução Passo a Passo de Algoritmos](https://github.com/eogasawara/algoritmos/blob/main/17-fazendo-o-chines-execucao-passo-a-passo-de-algoritmos.pdf) - apresenta a execução passo a passo de algoritmos.
+18. [Como o Computador Executa um Programa](https://github.com/eogasawara/algoritmos/blob/main/18-como-o-computador-executa-um-programa.pdf) - apresenta como o computador executa um programa.
+19. [Scratch para Entender Laços](https://github.com/eogasawara/algoritmos/blob/main/19-scratch-para-entender-lacos.pdf) - usa o Scratch para introduzir laços.
+20. [Repetir com Contador (para)](https://github.com/eogasawara/algoritmos/blob/main/20-repetir-com-contador-para.pdf) - apresenta repetição com contador.
+21. [Repetir até uma condição (enquanto)](https://github.com/eogasawara/algoritmos/blob/main/21-repetir-ate-uma-condicao-enquanto.pdf) - apresenta repetição até uma condição.
+22. [Fazendo o Chinês em Laços](https://github.com/eogasawara/algoritmos/blob/main/22-fazendo-o-chines-em-lacos.pdf) - apresenta execução passo a passo em laços.
+23. [Resolvendo Problemas com Repetição](https://github.com/eogasawara/algoritmos/blob/main/23-resolvendo-problemas-com-repeticao.pdf) - apresenta problemas resolvidos com repetição.
+
+## Blocos didáticos
+
+### Bloco 1 - Pensamento algorítmico
+
+Objetivo: formar a ideia de algoritmo antes de qualquer linguagem.
+
+Conceitos: problema e solução, passos, sequência, entrada, processamento, saída e pseudocódigo.
+
+### Bloco 2 - Motivação visual: algoritmo ganhando vida
+
+Objetivo: mostrar que algoritmo controla algo visível.
+
+Conceitos: sequência visual, execução de comandos, eventos e Scratch como visualização.
+
+### Bloco 3 - Variáveis e atribuição
+
+Objetivo: construir a ideia de estado e de memória.
+
+Conceitos: variável, atribuição, leitura, saída e diferença entre guardar e comparar.
+
+### Bloco 4 - Ponte cognitiva: Scratch e Portugol
+
+Objetivo: mostrar que lógica é universal.
+
+Conceitos: mesma lógica em diferentes representações, variável no Scratch, decisão no Scratch e em Portugol, e tradução mental entre linguagens.
+
+### Bloco 5 - Tipos e operações
+
+Objetivo: dar rigor ao uso de variáveis.
+
+Conceitos: inteiro, real, texto, lógico, operadores aritméticos, precedência e expressões.
+
+### Bloco 6 - Comparações e lógica
+
+Objetivo: introduzir a ideia de condição.
+
+Conceitos: verdadeiro/falso, operadores relacionais, operadores lógicos e comparação de texto e número.
+
+### Bloco 7 - Decisão
+
+Objetivo: introduzir controle de fluxo.
+
+Conceitos: `se`, `senão`, decisões simples e compostas, e problemas reais com condição.
+
+### Bloco 8 - Execução e raciocínio algorítmico
+
+Objetivo: ensinar a simular o computador.
+
+Conceitos: execução linha a linha, tabela de variáveis, estado do programa e desmistificação do computador.
+
+### Bloco 9 - Repetição
+
+Objetivo: introduzir a ideia de iteração.
+
+Conceitos: repetição visual, laço `para`, laço `enquanto`, laço infinito, acumulador e problemas reais.
+
+## Repositório
+
+<https://github.com/eogasawara/algoritmos>
 
 ## Playlist
 
-https://www.youtube.com/playlist?list=PLTy3TWJeueGz1BZSaGRrnIUGcyV-5QV_c
+[Algoritmos para Crianças](https://www.youtube.com/playlist?list=PLTy3TWJeueGz1BZSaGRrnIUGcyV-5QV_c)
 
-## Blocos didaticos
+[![Assistir a playlist no YouTube](https://img.shields.io/badge/YouTube-Assistir%20playlist-red?logo=youtube&logoColor=white)](https://www.youtube.com/playlist?list=PLTy3TWJeueGz1BZSaGRrnIUGcyV-5QV_c)
 
-### BLOCO 1 - Pensamento algoritmico (fundamentos cognitivos)
-Objetivo: formar a ideia de algoritmo antes de qualquer linguagem.
-Arquivos:
-- 01 - o-que-e-um-problema-e-um-algoritmo.pdf
-- 02 - pensar-em-passos-e-sequencias.pdf
-- 03 - entrada-saida-e-testar-solucoes.pdf
-- 04 - como-escrever-e-representar-algoritmos.pdf
-Conceitos:
-- problema -> solucao
-- passos
-- sequencia
-- entrada / processamento / saida
-- pseudocodigo
+## Bibliografia
 
-### BLOCO 2 - Motivacao visual: algoritmo ganhando vida (Scratch inicial)
-Objetivo: mostrar que algoritmo controla algo visivel.
-Arquivos:
-- 05 - scratch-ambiente-visual-para-executar-algoritmos.pdf
-Conceitos:
-- sequencia visual
-- execucao de comandos
-- eventos (bandeira verde)
-- Scratch como visualizacao, nao linguagem nova
-Observacao: sem variaveis ainda (intencional).
+1. Wing, Jeannette M. Computational thinking. Communications of the ACM, New York, v. 49, n. 3, p. 33-35, 2006.
+2. Papert, Seymour. Mindstorms: children, computers, and powerful ideas. New York: Basic Books, 1980.
+3. Polya, George. How to solve it: a new aspect of mathematical method. 2. ed. Princeton: Princeton University Press, 1957.
+4. Campos, A. F. G. A.; Campos, E. A. V. Fundamentos da programação de computadores: algoritmos, Pascal, C/C++ (padrão ANSI) e Java. 3. ed. São Paulo: Pearson, 2012.
 
-### BLOCO 3 - Variaveis e atribuicao (nucleo conceitual da programacao)
-Objetivo: construir a ideia de estado e memoria.
-Arquivos:
-- 06 - variaveis-guardando-informacoes.pdf
-- 07 - variaveis-entrada-e-saida-em-portugol.pdf
-- 08 - guardar-nao-e-comparar.pdf
-Conceitos:
-- variavel como "caixinha"
-- atribuicao (<-)
-- leitura (leia)
-- saida (escreva)
-- diferenca entre guardar e comparar
-Observacao: esse e o bloco mais importante do curso.
+## Issues
 
-### BLOCO 4 - Ponte cognitiva: Scratch <-> Portugol
-Objetivo: mostrar que logica e universal.
-Arquivos:
-- 09 - conectando-portugol-e-scratch.pdf
-Conceitos:
-- mesma logica, duas representacoes
-- variavel no Scratch
-- decisao no Scratch vs Portugol
-- traducao mental entre linguagens
-Observacao: aqui o aluno percebe "eu sei programar".
-
-### BLOCO 5 - Tipos e operacoes (formalizacao matematica)
-Objetivo: dar rigor ao uso de variaveis.
-Arquivos:
-- 10 - tipos-de-dados.pdf
-- 11 - fazendo-contas-em-portugol.pdf
-Conceitos:
-- inteiro, real, texto, logico
-- operadores aritmeticos
-- precedencia
-- expressoes
-
-### BLOCO 6 - Comparacoes e logica
-Objetivo: introduzir a ideia de condicao.
-Arquivos:
-- 12 - verdadeiro-falso-e-comparacoes.pdf
-- 13 - operadores-logicos.pdf
-- 14 - comparar-textos-e-numeros.pdf
-Conceitos:
-- verdadeiro/falso
-- operadores relacionais
-- operadores logicos (e, ou, nao)
-- comparacao de texto vs numero
-
-### BLOCO 7 - Decisao (programas que escolhem caminhos)
-Objetivo: introduzir controle de fluxo.
-Arquivos:
-- 15 - se-e-senao-em-portugol.pdf
-- 16 - resolvendo-problemas-com-decisoes.pdf
-Conceitos:
-- se / senao
-- decisoes simples e compostas
-- problemas reais com condicao
-Observacao: aqui o aluno entende que o programa "pensa".
-
-### BLOCO 8 - Execucao e raciocinio algoritmico ("chines")
-Objetivo: ensinar a simular o computador.
-Arquivos:
-- 17 - fazendo-o-chines-execucao-passo-a-passo-de-algoritmos.pdf
-- 18 - como-o-computador-executa-um-programa.pdf
-Conceitos:
-- execucao linha a linha
-- tabela de variaveis
-- estado do programa
-- desmistificacao do computador
-Observacao: esse bloco e o que transforma aluno em programador.
-
-### BLOCO 9 - Repeticao (lacos)
-Objetivo: introduzir a ideia de iteracao.
-Arquivos:
-- 19 - scratch-para-entender-lacos.pdf
-- 20 - repetir-com-contador-para.pdf
-- 21 - repetir-ate-uma-condicao-enquanto.pdf
-- 22 - fazendo-o-chines-em-lacos.pdf
-- 23 - resolvendo-problemas-com-repeticao.pdf
-Conceitos:
-- repeticao visual (Scratch)
-- laco para
-- laco enquanto
-- laco infinito
-- acumulador
-- problemas reais
-Observacao: aqui fecha o ciclo do pensamento algoritmico.
+Deixe bugs, dúvidas e sugestões em <https://github.com/eogasawara/algoritmos/issues>.
